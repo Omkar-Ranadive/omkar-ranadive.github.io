@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an incoming graduate student in the Master's in Computer Science program at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/). My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
+
+My goal is to make AI a tool which would be accessible to people of every discipline. I have always been enthralled by Computer Science as it is one of the few fields where practical results can be achieved quickly. I believe that by amalgamating AI with Computer Science,  people from all disciplines will be able to satisfy their curiosity, get practical results, perform better research and solve problems faster. 
+
+I have completed my Bachelors in Technology (B.Tech) in Computer Engineering from [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/kjsce/). My final year project was titled "Simulation Environment for Development and Testing of Autonomous Learning Agents". You can check out the paper over [here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3367735)
+
+Other than technology, I am an avid foodie and I love trying out new dishes. I also love travelling, reading manga and watching tv series and anime.   
+
+My CV can be found [here.](add link later)
 
 A data-driven personal website
 ======
