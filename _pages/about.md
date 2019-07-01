@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+------
 I am an incoming graduate student in the Master's in Computer Science program at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/). My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
 
 My goal is to make AI a tool which would be accessible to people of every discipline. I have always been enthralled by Computer Science as it is one of the few fields where practical results can be achieved quickly. I believe that by amalgamating AI with Computer Science,  people from all disciplines will be able to satisfy their curiosity, get practical results, perform better research and solve problems faster. 
