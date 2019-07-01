@@ -25,7 +25,7 @@ Education
 **Master's in Computer Science, Northwestern University**
 #### Fall 2019 
 -----
-I am an incoming graduate student at Northwestern University. I will be starting my Master's in Computer Science at Fall 19. 
+I am an incoming graduate student at Northwestern University. I will be starting my Master's in Computer Science in Fall 19. 
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/somaiya.png" style="padding-right:15px">
