@@ -20,10 +20,11 @@ My CV can be found [here.](add link later)
 
 Experience
 -----
+<img align="left" src="../images/kj.jpg">
+
 **Deep Learning Intern, K.J Somaiya College of Engineering** 
 #### January 2018 to April 2018
 -----
-![KJ Somaiya logo](/images/kj.jpg) 
 I have worked under Prof. Grishma Sharma and we researched different methodologies of k-shot learning for facial recognition system. We developed a facial recognition system which can be trained on a small number of samples (k samples) to perform fast and accurate recognition of faces. The link to the paper can be found [here.](https://www.ijcaonline.org/archives/volume181/number18/29966-2018917871)
 
 **Machine Learning Intern, Accelo Innovation** 
