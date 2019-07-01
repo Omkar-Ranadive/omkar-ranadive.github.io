@@ -32,6 +32,7 @@ I am an incoming graduate student at Northwestern University. I will be starting
 
 **B.Tech in Computer Engineering, K.J Somaiya College of Engineering**
 #### 2015 - 2019 
+-----
 I did my Bachelor's in Technology in Computer Engineering from K.J Somaiya College of Engineering. 
 <br>
 <b>My engineering CGPA:</b> 8.99/10 <br> 
