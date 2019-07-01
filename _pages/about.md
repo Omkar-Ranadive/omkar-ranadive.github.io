@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ------
 I am an incoming graduate student in the Master's in Computer Science program at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/). My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
 
