@@ -6,5 +6,5 @@ excerpt: 'Training an autonomous agent in the real world is a cumbersome process
 date: 2019-04-25
 venue: 'Elsevier - SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3367735'
-citation: 'Joisher, Karan and Khan, Suhaib and Ranadive, Omkar, Simulation Environment for Development and Testing of Autonomous Learning Agents (April 8, 2019). Available at SSRN: https://ssrn.com/abstract=3367735 or http://dx.doi.org/10.2139/ssrn.3367735'
+citation: 'Joisher, Karan and Khan, Suhaib and Ranadive, Omkar, Simulation Environment for Development and Testing of Autonomous Learning Agents (April 8, 2019).'
 ---
