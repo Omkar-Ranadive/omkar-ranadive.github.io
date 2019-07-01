@@ -20,7 +20,7 @@ My CV can be found [here.](add link later)
 
 Experience
 -----
-<img align="left" height="100" width="100" src="../images/kj.jpg">
+<img align="left" height="100" width="100" src="../images/kj.jpg" style="padding-right:15px">
 
 **Deep Learning Intern, K.J Somaiya College of Engineering** 
 #### January 2018 to April 2018
@@ -28,7 +28,7 @@ Experience
 I have worked under Prof. Grishma Sharma and we researched different methodologies of k-shot learning for facial recognition system. We developed a facial recognition system which can be trained on a small number of samples (k samples) to perform fast and accurate recognition of faces. The link to the paper can be found [here.](https://www.ijcaonline.org/archives/volume181/number18/29966-2018917871)
 
 -----
-<img align="left" height="100" width="100" src="../images/accelo.jpg">
+<img align="left" height="100" width="100" src="../images/accelo.jpg" style="padding-right:15px">
 
 **Machine Learning Intern, Accelo Innovation** 
 #### August 2017 to October 2017
@@ -38,7 +38,7 @@ Accelo Innovation is a tech startup working in the segment of accident reduction
 * Integration of the modules with a CNN model to create a usable API 
 
 -----
-<img align="left" height="100" width="100" src="../images/csi.png">
+<img align="left" height="100" width="100" src="../images/csi.png" style="padding-right:15px">
 
 **Computer Society of India, KJSCE Student's Chapter** 
 ##### March 2016 to July 2017
