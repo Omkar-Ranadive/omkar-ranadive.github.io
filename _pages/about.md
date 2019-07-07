@@ -16,16 +16,16 @@ I have completed my Bachelors in Technology (B.Tech) in Computer Engineering fro
 
 Other than technology, I am an avid foodie and I love trying out new dishes. I also love travelling, reading manga and watching tv series and anime.   
 
-My CV can be found [here.](add link later)
+My CV can be found [here.](../files/Resume_Jul19_2.pdf)
 
 Education
 -----
 <img align="left" height="100" width="200" src="../images/logos/NWU.png" style="padding-right:15px">
 
 **Master's in Computer Science, Northwestern University**
-#### Fall 2019 
+#### Starting September 2019
 -----
-I am an incoming graduate student at Northwestern University. I will be starting my Master's in Computer Science in Fall 19. 
+I am an incoming graduate student at Northwestern University. I will be starting my Master's in Computer Science in September 2019. 
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/somaiya.png" style="padding-right:15px">
