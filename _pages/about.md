@@ -33,10 +33,10 @@ I am an incoming graduate student at Northwestern University. I will be starting
 **B.Tech in Computer Engineering, K.J Somaiya College of Engineering**
 #### 2015 - 2019 
 -----
-I did my Bachelor's in Technology in Computer Engineering from K.J Somaiya College of Engineering. 
+I did my Bachelor of Technology in Computer Engineering from K.J Somaiya College of Engineering. 
 <br>
-<b>My engineering CGPA:</b> 8.99/10 <br> 
-<b>Relevant coursework:</b> Artificial Intelligence, Machine Learning (Topper), Neural Nets, Image Analysis (Topper), Fundamentals of Programming (10/10, AP), Data Structures, Algorithms, Computer Architecture (10/10), Operating Systems (Topper) 
+<strong>My engineering CGPA:</strong> 8.99/10 <br> 
+<strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning (Topper), Neural Nets, Image Analysis (Topper), Fundamentals of Programming (10/10, AP), Data Structures, Algorithms, Computer Architecture (10/10), Operating Systems (Topper) 
 
 Experience
 -----
