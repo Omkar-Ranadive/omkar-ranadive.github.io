@@ -20,7 +20,7 @@ My CV can be found [here.](../files/Resume_Jul19_2.pdf)
 
 Education
 -----
-<img align="left" height="100" width="200" src="../images/logos/NWU.png" style="padding-right:15px">
+<img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
 
 **Master's in Computer Science, Northwestern University**
 #### Starting September 2019
