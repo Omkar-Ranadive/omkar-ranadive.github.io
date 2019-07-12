@@ -1,10 +1,14 @@
 ---
-layout: archive
-permalink: /files/blog/dl-non-linear-activation-need.html
-title: ""
-author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
+title: "Why do activation functions need to be non-linear?"
+permalink: /posts/dl-non-linear-activation-need
+quora: true 
+code: false 
+study: false 
+category: deeplearning
+tags:
+  - deeplearning
+  - activation-function
+  - non-linearity
 ---
 
 

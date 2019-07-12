@@ -1,10 +1,13 @@
 ---
-layout: archive
-permalink: /files/blog/dl-resnets-increase-layers.html
-title: ""
-author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
+title: "Understanding how increasing the number of layers increases the training error after a point and how Resnets solve it"
+permalink: /posts/dl-resnets-increase-layers
+quora: true 
+code: false 
+study: false
+category: deeplearning
+tags:
+  - deeplearning
+  - resnets
 ---
 
 

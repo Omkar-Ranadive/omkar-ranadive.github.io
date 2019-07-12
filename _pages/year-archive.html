@@ -6,26 +6,81 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
+{% include base_path %}
 
-<h2>Machine Learning</h2>
+<!--
+- Loop posts from _posts folder
+- For every post, we separate them by group using post.group front matter 
+- For every post, we assign one or more of the three symbols: quora post, code, theory 
+-->
+
+<!--Segregate by categories-->
+
+<!--Machine Learning section-->
+<h2>Machine Learning</h2> 
 <hr> 
+<ul>
+{% for post in site.categories.machine-learning %}
+  <!--Assign the appropriate symbols-->
+  {% assign symbol = '' %} <!-- Start with an empty string-->
+  {% if post.quora %}
+  {% assign symbol =  '[<i class="fab fa-fw fa-quora" aria-hidden="true" style="color:red"></i>]' %}
+  {% endif %}
+  {% if post.code %}
+  {% assign symbol = symbol | append: '[<i class="fa fa-code" aria-hidden="true" style="color:black"></i>]' %}
+  {% endif %}
+  {% if post.study %}
+  {% assign symbol = symbol | append: '[<i class="fa fa-book" aria-hidden="true" style="color:chocolate"></i>]' %}
+  {% endif %}
+  <li><a href="{{ post.permalink }}">{{ post.title }} {{ symbol }}</a></li> 
+{% endfor %}
+</ul>
 
+<!--Deep Learning Section-->
 <hr> 
 <h2>Deep Learning</h2> 
 <hr> 
-<ul> 
-<li><a href="../files/blog/dl-resnets-increase-layers.html">Understanding how increasing the number of layers increases the training error after a point and how Resnets solve it [<i class="fab fa-fw fa-quora" aria-hidden="true" style="color:red"></i>]</a></li>
-<li><a href="../files/blog/dl-local-minima-problem.html">Overcoming local minima problem in neural networks [<i class="fab fa-fw fa-quora" aria-hidden="true" style="color:red"></i>]</a></li>
-<li><a href="../files/blog/dl-non-linear-activation-need.html">Why do activation functions need to be non-linear? [<i class="fab fa-fw fa-quora" aria-hidden="true" style="color:red"></i>]</a></li>
-<li><a href="../files/blog/dl-generalize-better-larger-set.html">Do neural nets generalize better with larger data sets? [<i class="fab fa-fw fa-quora" aria-hidden="true" style="color:red"></i>]</a></li>
+<ul>
+{% for post in site.categories.deeplearning %}
+  <!--Assign the appropriate symbols-->
+  {% assign symbol = '' %} <!-- Start with an empty string-->
+  {% if post.quora %}
+  {% assign symbol =  '[<i class="fab fa-fw fa-quora" aria-hidden="true" style="color:red"></i>]' %}
+  {% endif %}
+  {% if post.code %}
+  {% assign symbol = symbol | append: '[<i class="fa fa-code" aria-hidden="true" style="color:black"></i>]' %}
+  {% endif %}
+  {% if post.study %}
+  {% assign symbol = symbol | append: '[<i class="fa fa-book" aria-hidden="true" style="color:chocolate"></i>]' %}
+  {% endif %}
+  <li><a href="{{ post.permalink }}">{{ post.title }} {{ symbol }}</a></li> 
+{% endfor %}
 </ul>
-<hr> 
 
-<h2>Reinforcement Learning</h2>
+<!--Reinforcement Learning Section-->
+<hr>
+<h2>Reinforcement Learning</h2> 
 <hr> 
 <ul>
-<li><a href="../files/blog/rl-dp-quora.html">Relation between Dynamic Programming and Reinforcement Learning [<i class="fab fa-fw fa-quora" aria-hidden="true" style="color:red"></i>]</a></li>
+{% for post in site.categories.reinforcement-learning %}
+  <!--Assign the appropriate symbols-->
+  {% assign symbol = '' %} <!-- Start with an empty string-->
+  {% if post.quora %}
+  {% assign symbol =  '[<i class="fab fa-fw fa-quora" aria-hidden="true" style="color:red"></i>]' %}
+  {% endif %}
+  {% if post.code %}
+  {% assign symbol = symbol | append: '[<i class="fa fa-code" aria-hidden="true" style="color:black"></i>]' %}
+  {% endif %}
+  {% if post.study %}
+  {% assign symbol = symbol | append: '[<i class="fa fa-book" aria-hidden="true" style="color:chocolate"></i>]' %}
+  {% endif %}
+  <li><a href="{{ post.permalink }}">{{ post.title }} {{ symbol }}</a></li> 
+{% endfor %}
 </ul>
+
+
+
+
 
 <!--
 {% include base_path %}

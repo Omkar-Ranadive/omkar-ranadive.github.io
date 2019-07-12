@@ -7,6 +7,8 @@ The tool provides strengthening features as follows: \n
 • Users can generate strong random passwords
 • Users can generate strong easy to remember passwords
 • Users can generate a stronger version of their existing passwords(Improvements to existing password)"
+viewable: false 
+gitlink: https://github.com/Omkar-Ranadive/Password-Cracking-and-Strengthening-Tool
 from: October 2018
 to: October 2018 
 date: 2018-10-30

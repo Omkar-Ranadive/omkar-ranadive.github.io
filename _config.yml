@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Omkar Ranadive"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Omkar Ranadive"
 description              : &description "personal description"
 url                      : https://omkar-ranadive.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Omkar Ranadive"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Master's in Computer Science student at Northwestern University"
+  location         : "Evanston, Illinois"
   employer         :
   pubmed           : 
   googlescholar    : 
