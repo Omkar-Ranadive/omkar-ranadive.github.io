@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ------
-I am an incoming graduate student in the Master's in Computer Science program at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/){:target="_blank"}. My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
+I am a Computer Science graduate student at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/){:target="_blank"}. My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
 
 My goal is to make AI a tool which would be accessible to people of every discipline. I have always been enthralled by Computer Science as it is one of the few fields where practical results can be achieved quickly. I believe that by amalgamating AI with Computer Science,  people from all disciplines will be able to satisfy their curiosity, get practical results, perform better research and solve problems faster. 
 
@@ -16,16 +16,16 @@ I have completed my Bachelors in Technology (B.Tech) in Computer Engineering fro
 
 Other than technology, I am an avid foodie and I love trying out new dishes. I also love travelling, reading manga and watching tv series and anime.   
 
-My CV can be found [here.](../files/Resume_Jul19_2.pdf){:target="_blank"}
+My CV can be found [here.](../files/Resume.pdf){:target="_blank"}
 
 Education
 -----
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
 
 **Master's in Computer Science, Northwestern University**
-#### Starting September 2019
+#### September 2019 - Present
 -----
-I am an incoming graduate student at Northwestern University. I will be starting my Master's in Computer Science in September 2019. 
+I am currently doing my Master's in Computer Science from Northwestern University. 
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/somaiya.png" style="padding-right:15px">
