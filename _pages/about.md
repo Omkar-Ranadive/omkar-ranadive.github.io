@@ -26,6 +26,7 @@ Education
 #### September 2019 - Present
 -----
 I am currently doing my Master's in Computer Science from Northwestern University. 
+<strong>Coursework:</strong> CS349-Machine Learning, DS421-Statistics, CS496-Data Science Seminar, CS348-Intro to AI  
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/somaiya.png" style="padding-right:15px">
