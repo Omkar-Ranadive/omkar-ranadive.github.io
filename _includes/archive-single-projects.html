@@ -57,6 +57,9 @@
       {% if post.gitlink %}
         <p>Git Repo:  <a href="{{ post.gitlink }}" target="_blank"><i class="fab fa-github-alt fa-2x" style="color:black"></i></a></p>
       {% endif %}
+      {% if post.report %}
+      <p>Report:  <a href="{{ post.report }}" target="_blank"><i class="fas fa-file-alt fa-2x" style="color:black"></i></a></p>
+    {% endif %}
     {% elsif post.description and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
       {% if post.viewable %}

@@ -25,8 +25,11 @@ Education
 **Master's in Computer Science, Northwestern University**
 #### September 2019 - Present
 -----
-I am currently doing my Master's in Computer Science from Northwestern University. 
-<strong>Coursework:</strong> CS349-Machine Learning, DS421-Statistics, CS496-Data Science Seminar, CS348-Intro to AI  
+I am currently doing my Master's in Computer Science from Northwestern University. <br>
+<strong>CGPA: </strong> 4.0/4.0 <br>
+<strong>Coursework:</strong>
+* <strong>Fall'19: </strong>CS349-Machine Learning, DS421-Statistics, CS496-Data Science Seminar, CS348-Intro to AI  <br>
+* <strong>Winter'20: </strong>CS496-Advanced Deep Learning, EE435-Deep Learning Foundations 
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/somaiya.png" style="padding-right:15px">
@@ -40,6 +43,14 @@ I did my Bachelor of Technology in Computer Engineering from K.J Somaiya College
 <strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning (Topper), Neural Nets, Image Analysis (Topper), Fundamentals of Programming (10/10, AP), Data Structures, Algorithms, Computer Architecture (10/10), Operating Systems (Topper) 
 
 Experience
+-----
+<img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
+
+**Graduate Research Assistant, Northwestern University**
+#### Starting January 2020 
+-----
+I will be working under [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} from January 2020 onwards. We will be working on developing a Reinforcement Learning environment and agents which are capable of audio signal separation. 
+
 -----
 <img align="left" height="100" width="100" src="../images/logos/kj.jpg" style="padding-right:15px">
 
@@ -62,7 +73,7 @@ Accelo Innovation is a tech startup working in the segment of accident reduction
 <img align="left" height="100" width="100" src="../images/logos/csi.png" style="padding-right:15px">
 
 **Computer Society of India, KJSCE Student's Chapter** 
-##### March 2016 to July 2017
+#### March 2016 to July 2017
 -----
 I worked as a first year representative at [CSI](http://csikjsce.org/){:target="_blank"} from March 2016 to July 2016. As a first year representative, I was responsible for managing different technical events and seminars conducted by CSI. Then, I worked as a second year representative from July 2016 to July 2017. As a second year representative, I was more involved and I performed the following activities: 
 * Created technical content for workshops and coding questions for competitions 
