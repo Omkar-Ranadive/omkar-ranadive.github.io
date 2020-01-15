@@ -49,7 +49,7 @@ Experience
 **Graduate Research Assistant, Northwestern University**
 #### Starting January 2020 
 -----
-I will be working under [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} from January 2020 onward. We will be working on developing a Reinforcement Learning environment and agents which are capable of audio signal separation. 
+I am currently working under [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"}. We are working on developing a Reinforcement Learning environment and agents which are capable of audio signal separation. 
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/kj.jpg" style="padding-right:15px">
