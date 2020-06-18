@@ -56,7 +56,7 @@ Experience
 -----
 **Advisor:** [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} <br>
 We developed OtoWorld, an interactive environment for training reinforcement learning agents for the task of audio separation. The environment is designed to facilitate reinforcement learning research in computer audition. <br>
-**Git repository:** [OtoWorld](https://github.com/pseeth/otoworld) <br>
+**Git repository:** [OtoWorld](https://github.com/pseeth/otoworld){:target="_blank"} <br>
 **Paper Submission:** [TBD]   
 
 -----
