@@ -30,7 +30,7 @@ I am currently doing my Master's in Computer Science from Northwestern Universit
 <strong>Coursework:</strong>
 * <strong>Fall'19: </strong>CS349-Machine Learning, DS421-Statistics, CS496-Data Science Seminar, CS348-Intro to AI  <br>
 * <strong>Winter'20: </strong>CS496-Advanced Deep Learning, EE435-Deep Learning Foundations <br>
-* <strong>Spring'20: </strong>CS397-Statistical Language Modeling, CS336-Algorithms, EE395-Geospatial Vision and Visualization 
+* <strong>Spring'20: </strong>CS397-Statistical Language Modeling, CS336-Algorithms
 
 <strong>Labs/Reading Groups: </strong>Research in Automated Listening Methods Lab, Modern Artificial General Intelligence and Computer Systems Lab, AI Journal Club
 
@@ -42,7 +42,7 @@ I am currently doing my Master's in Computer Science from Northwestern Universit
 -----
 I did my Bachelor of Technology in Computer Engineering from K.J Somaiya College of Engineering. 
 <br>
-<strong>My engineering CGPA:</strong> 8.99/10 <br> 
+<strong>CGPA:</strong> 8.99/10 <br> 
 <strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning (Topper), Neural Nets, Image Analysis (Topper), Fundamentals of Programming (10/10, AP), Data Structures, Algorithms, Computer Architecture (10/10), Operating Systems (Topper) <br>
 <strong>Activities: </strong>Computer Society of India  
 
@@ -52,8 +52,12 @@ Experience
 
 **Graduate Research Assistant, Northwestern University**
 #### January 2020 - Present 
+
 -----
-I am currently working under [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"}. We are working on developing a Reinforcement Learning environment and agents which are capable of audio signal separation. 
+**Advisor:** [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} <br>
+We developed OtoWorld, an interactive environment for training reinforcement learning agents for the task of audio separation. The environment is designed to facilitate reinforcement learning research in computer audition. <br>
+**Git repository:** [OtoWorld](https://github.com/pseeth/otoworld) <br>
+**Paper Submission:** [TBD]   
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/kj.jpg" style="padding-right:15px">

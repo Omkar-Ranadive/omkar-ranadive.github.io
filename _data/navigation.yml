@@ -10,7 +10,7 @@ main:
     url: /teaching/    
           
   - title: "Blog/Notes"
-    url: /year-archive/
+    url: /blog/
     
   - title: "CV"
     url: /files/Resume.pdf

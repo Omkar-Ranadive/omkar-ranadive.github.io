@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /blog/
 title: ""
 author_profile: true
 redirect_from:
@@ -14,8 +14,13 @@ redirect_from:
 - For every post, we assign one or more of the three symbols: quora post, code, theory 
 -->
 
-<!--Segregate by categories-->
 
+<!--Segregate by categories-->
+<style>
+a .ca:hover {
+	text-decoration:underline;
+}
+</style>
 <!--Machine Learning section-->
 <h2>Machine Learning</h2> 
 <hr> 
@@ -32,7 +37,7 @@ redirect_from:
   {% if post.study %}
   {% assign symbol = symbol | append: '[<i class="fa fa-book" aria-hidden="true" style="color:chocolate"></i>]' %}
   {% endif %}
-  <li><a href="{{ post.permalink }}">{{ post.title }} {{ symbol }}</a></li> 
+  <li><b><a href="{{ post.permalink }}" style="text-decoration:none"><span class="ca">{{ post.title }}</span>{{ symbol }}</a></b></li> 
 {% endfor %}
 </ul>
 
@@ -53,7 +58,7 @@ redirect_from:
   {% if post.study %}
   {% assign symbol = symbol | append: '[<i class="fa fa-book" aria-hidden="true" style="color:chocolate"></i>]' %}
   {% endif %}
-  <li><a href="{{ post.permalink }}">{{ post.title }} {{ symbol }}</a></li> 
+  <li><b><a href="{{ post.permalink }}"style="text-decoration:none"><span class="ca">{{ post.title }}</span> {{ symbol }}</a></b></li> 
 {% endfor %}
 </ul>
 
@@ -74,7 +79,7 @@ redirect_from:
   {% if post.study %}
   {% assign symbol = symbol | append: '[<i class="fa fa-book" aria-hidden="true" style="color:chocolate"></i>]' %}
   {% endif %}
-  <li><a href="{{ post.permalink }}">{{ post.title }} {{ symbol }}</a></li> 
+  <li><b><a href="{{ post.permalink }}"style="text-decoration:none"><span class="ca">{{ post.title }}</span> {{ symbol }}</a></b></li> 
 {% endfor %}
 </ul>
 
