@@ -48,10 +48,19 @@ I did my Bachelor of Technology in Computer Engineering from K.J Somaiya College
 
 Experience
 -----
+<img align="left" height="100" width="180" src="../images/logos/ciera.jpg" style="padding-right:15px">
+
+**Researcher, CIERA** 
+#### June 2020 - Present 
+
+----- 
+I am a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory/vicky-kalogera/){:target="_blank"} Research Group and I will be responsible for developing Machine Learning algorithms and applying ML across different projects. 
+
+-----
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
 
 **Graduate Research Assistant, Northwestern University**
-#### January 2020 - Present 
+#### January 2020 - June 2020  
 
 -----
 **Advisor:** [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} <br>
@@ -65,7 +74,8 @@ We developed OtoWorld, an interactive environment for training reinforcement lea
 **Deep Learning Intern, K.J Somaiya College of Engineering** 
 #### January 2018 to April 2018
 -----
-I worked under Prof. Grishma Sharma and we researched different methodologies of k-shot learning for facial recognition system. We developed a facial recognition system which can be trained on a small number of samples (k samples) to perform fast and accurate recognition of faces. The link to the paper can be found [here.](https://www.ijcaonline.org/archives/volume181/number18/29966-2018917871){:target="_blank"}
+**Advisor:** [Prof. Grishma Sharma](https://kjsce.somaiya.edu/en/view-member/160102?type=faculty){:target="_blank"} <br>
+Researched different methodologies of k-shot learning for facial recognition system. We developed a facial recognition system which can be trained on a small number of samples (k samples) to perform fast and accurate recognition of faces. The link to the paper can be found [here.](https://www.ijcaonline.org/archives/volume181/number18/29966-2018917871){:target="_blank"}
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/accelo.jpg" style="padding-right:15px">
