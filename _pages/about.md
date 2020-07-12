@@ -16,7 +16,7 @@ I have completed my Bachelors in Technology (B.Tech) in Computer Engineering fro
 
 Other than technology, I am an avid foodie and I love trying out new dishes. I also love travelling, reading manga and watching tv series and anime.   
 
-My CV can be found [here.](../files/Resume.pdf){:target="_blank"}
+My CV can be found [here.](../files/CV.pdf){:target="_blank"}
 
 Education
 -----
