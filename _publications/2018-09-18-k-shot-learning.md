@@ -6,7 +6,7 @@ excerpt: 'There have been many recent advancements in the field of artificial in
 
 The aim is to explore, analyze and improve the different techniques which can be used for Face Recognition where the algorithm is fed with a few examples of faces i.e. the process of k shot learning for Face Recognition has been explored using the LFW and FEI datasets. The techniques of transfer learning have been used along with the famous Dlib library with some improvements using methods of deep learning.'
 date: 2018-09-18
-venue: 'International Journal of Computer Applications'
+venue: 'International Journal of Computer Applications, 2018'
 paperurl: 'https://www.ijcaonline.org/archives/volume181/number18/29966-2018917871'
-citation: 'Omkar Ranadive and Dhiti Thakkar. k-Shot Learning for Face Recognition. International Journal of Computer Applications 181(18):43-48, September 2018'
+citation: 
 ---
