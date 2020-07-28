@@ -21,6 +21,29 @@ a .ca:hover {
 	text-decoration:underline;
 }
 </style>
+
+
+<!--Stats Section-->
+<h2>Statistics</h2> 
+<hr> 
+<ul>
+{% for post in site.categories.statistics %}
+  <!--Assign the appropriate symbols-->
+  {% assign symbol = '' %} <!-- Start with an empty string-->
+  {% if post.quora %}
+  {% assign symbol =  '[<i class="fab fa-fw fa-quora" aria-hidden="true" style="color:red"></i>]' %}
+  {% endif %}
+  {% if post.code %}
+  {% assign symbol = symbol | append: '[<i class="fa fa-code" aria-hidden="true" style="color:black"></i>]' %}
+  {% endif %}
+  {% if post.study %}
+  {% assign symbol = symbol | append: '[<i class="fa fa-book" aria-hidden="true" style="color:chocolate"></i>]' %}
+  {% endif %}
+  <li><b><a href="{{ post.permalink }}" style="text-decoration:none"><span class="ca">{{ post.title }}</span>{{ symbol }}</a></b></li> 
+{% endfor %}
+</ul>
+
+
 <!--Machine Learning section-->
 <h2>Machine Learning</h2> 
 <hr> 

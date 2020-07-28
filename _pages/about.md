@@ -54,7 +54,11 @@ Experience
 #### June 2020 - Present 
 
 ----- 
-I am a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory/vicky-kalogera/){:target="_blank"} Research Group and I will be responsible for developing Machine Learning algorithms and applying ML across different projects. 
+I am a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory/vicky-kalogera/){:target="_blank"} Research Group and I will be responsible for developing Machine Learning algorithms and applying ML across different projects. <br><br>
+**Earthquake Detective:** <br> 
+**Advisor:** [Prof. Suzan Van Der Lee](http://geophysics.earth.northwestern.edu/seismology/suzan/){:target="_blank"}<br>
+We are developing Machine Learning algorithm to detect local earthquakes from seismic data and a ML based retirement algorithm for the [Earthquake Detective crowd-sourcing platform](https://www.zooniverse.org/projects/vivitang/earthquake-detective){:target="_blank"} on Zooniverse.  
+
 
 -----
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
@@ -66,7 +70,7 @@ I am a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory
 **Advisor:** [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} <br>
 We developed OtoWorld, an interactive environment for training reinforcement learning agents for the task of audio separation. The environment is designed to facilitate reinforcement learning research in computer audition. <br>
 **Git repository:** [OtoWorld](https://github.com/pseeth/otoworld){:target="_blank"} <br>
-**Paper Submission:** [TBD]   
+**Paper:**  [https://arxiv.org/pdf/2007.06123.pdf](https://arxiv.org/pdf/2007.06123.pdf){:target="_blank"}
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/kj.jpg" style="padding-right:15px">
