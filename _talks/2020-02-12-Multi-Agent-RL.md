@@ -1,8 +1,8 @@
 ---
 title: "Multi-Agent Reinforcement Learning"
-collection: teaching
+collection: talks
 type: "AI Journal Club"
-permalink: /teaching/2020-Multi-Agent-RL.md
+permalink: /talks/2020-Multi-Agent-RL.md
 venue: "Northwestern University"
 date: 2020-02-12
 location: "Evanston, Illinois"

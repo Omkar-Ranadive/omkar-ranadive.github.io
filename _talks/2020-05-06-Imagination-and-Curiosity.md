@@ -1,8 +1,8 @@
 ---
 title: "Imagination and Curiosity in Reinforcement Learning"
-collection: teaching
+collection: talks
 type: "AI Journal Club"
-permalink: /teaching/2020-Imagination-Curiosity-RL.md
+permalink: /talks/2020-Imagination-Curiosity-RL.md
 venue: "Northwestern University"
 date: 2020-05-06
 location: "Evanston, Illinois"
