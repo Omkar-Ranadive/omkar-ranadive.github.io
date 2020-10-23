@@ -10,11 +10,11 @@ redirect_from:
 ------
 I am a Computer Science graduate student at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/){:target="_blank"}. My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
 
-My goal is to make AI a tool which would be accessible to people of every discipline. I have always been enthralled by Computer Science as it is one of the few fields where practical results can be achieved quickly. I believe that by amalgamating AI with Computer Science,  people from all disciplines will be able to satisfy their curiosity, get practical results, perform better research and solve problems faster. 
+My overarching goal is to develop AI algorithms which would bring us closer to attaining general intelligence. My other goal is to incorporate AI into different disciplines of science. I have always been enthralled by Computer Science as it is one of the few fields where practical results can be achieved quickly. I believe that by amalgamating AI with Computer Science,  people from all disciplines will be able to satisfy their curiosity, get practical results, perform better research and solve problems faster. 
 
-I have completed my Bachelors in Technology (B.Tech) in Computer Engineering from [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/kjsce/){:target="_blank"}. My final year project was titled "Simulation Environment for Development and Testing of Autonomous Learning Agents". You can check out the paper over [here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3367735){:target="_blank"}
+I have completed my Bachelors in Technology (B.Tech) in Computer Engineering from [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/kjsce/){:target="_blank"}. 
 
-Other than technology, I am an avid foodie and I love trying out new dishes. I also love travelling, reading manga and watching tv series and anime.   
+Other than science, I am an avid foodie and I love trying out new dishes. I also love travelling, reading manga and watching tv series and anime.   
 
 My CV can be found [here.](../files/CV.pdf){:target="_blank"}
 
@@ -59,7 +59,7 @@ I am a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory
 **Earthquake Detective:** <br> 
 **Advisor:** [Prof. Suzan Van Der Lee](http://geophysics.earth.northwestern.edu/seismology/suzan/){:target="_blank"}<br>
 We are developing Machine Learning algorithm to detect local earthquakes from seismic data and a ML based retirement algorithm for the [Earthquake Detective crowd-sourcing platform](https://www.zooniverse.org/projects/vivitang/earthquake-detective){:target="_blank"} on Zooniverse.  <br>
-**Git repository: ** [Earthquake Detective](https://github.com/Omkar-Ranadive/Earthquake-Detective){:target="_blank"} <br>
+**Git repository:** [Earthquake Detective](https://github.com/Omkar-Ranadive/Earthquake-Detective){:target="_blank"} <br>
 
 -----
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
