@@ -2,10 +2,8 @@
 <!-- Start Collapse.html -->
 <script>
     var coll = document.getElementsByClassName("collapsible");
-    console.log("Length of col1" + coll.length)
     var i;
     for (i = 0; i < coll.length; i++) {
-      console.log("I Value: " + i);
       coll[i].addEventListener("click", function() {
         var content = document.getElementById(this.id+"data");
         if (content.style.display === "block") {
