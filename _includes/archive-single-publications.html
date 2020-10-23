@@ -12,6 +12,33 @@
   {% assign title = post.title %}
 {% endif %}
 
+<style>
+  a .ca:hover {
+    text-decoration:underline;
+  }
+  .collapsible {
+  
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  text-align: left;
+  font-size: 15px;
+  }
+  
+  .active, .collapsible:hover {
+  background-color: #555;
+  }
+  
+  .content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  }
+  </style>
+
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -49,17 +76,20 @@
     {% if post.excerpt and site.read_more != 'enabled' %}
 	  <p class="archive__item-excerpt" itemprop="description"><p style="font-weight:bold">Abstract: </p>{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    <button class="collapsible" id="{{ post.pid }}">View Abstract</button>
+    <div class="content" id="{{ post.pid }}data">
+      {{ post.excerpt | markdownify }}      
+    </div>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
-      <p><strong>Recommended citation: </strong>{{ post.citation }} </p>
-	  <p>Download paper<a href="{{ post.paperurl }}"><u> here</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download paper<a href=" {{ post.paperurl }} "><u> here</u></a></p>
-    {% endif %}
-
+    {% if post.citation %}
+    <p>Recommended citation: {{ post.citation }} </p> <br>
+  {% endif %}
+  {% if post.paperurl and post.giturl%}
+    <a href=" {{ post.paperurl }} " target="_blank" style="text-decoration:none"><span class="ca"><strong>[Download Paper]</strong></span></a> <a href=" {{ post.giturl }} " target="_blank" style="text-decoration:none"><span class="ca"><strong>[Code]</strong></span></a>
+  {% elsif post.paperurl %}
+     <a href=" {{ post.paperurl }} " target="_blank" style="text-decoration:none"><span class="ca"><strong>[Download Paper]</strong></span></a>
+  {% endif %}
+  <hr>
   </article>
 </div>

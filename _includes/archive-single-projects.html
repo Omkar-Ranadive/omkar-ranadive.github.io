@@ -48,7 +48,7 @@
             {% endif %}
         {% endif %}
 
-    {% if post.description and site.read_more != 'enabled' %}
+    {% if post.description  %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.description | markdownify }}</p>
       {% if post.viewable %}
         <p>Detailed project info <a href=" {{ post.url }}"><u>here</u></a></p>

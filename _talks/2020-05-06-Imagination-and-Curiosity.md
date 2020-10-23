@@ -14,4 +14,4 @@ I presented in the AI Journal Club on how abstract human concepts like Imaginati
 <li><strong>Curiosity Driven Exploration:</strong> <a href="https://arxiv.org/abs/1705.05363" target = "_blank">https://arxiv.org/abs/1705.05363</a></li>
 <li><strong>Large Scale Study of Curiosity:</strong> <a href="https://arxiv.org/abs/1808.04355" target="_blank">https://arxiv.org/abs/1808.04355</a></li>
 </ul>
-Lectures slides can be found [here.](../files/presentations/Imagination_and_Curiosity.pdf){:target="_blank"}
+Slides can be found [here.](../files/presentations/Imagination_and_Curiosity.pdf){:target="_blank"}

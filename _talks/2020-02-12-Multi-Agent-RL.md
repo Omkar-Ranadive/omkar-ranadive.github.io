@@ -14,4 +14,4 @@ I presented on Multi-Agent Reinforcement Learning in the AI Journal Club. The pr
 <li> <strong>Emergent Tool Use (Hide and Seek):</strong> <a href="https://arxiv.org/abs/1909.07528" target="_blank">https://arxiv.org/abs/1909.07528</a></li>
 <li> <strong>Alpha Go Zero:</strong> <a href="https://www.nature.com/articles/nature24270" target="_blank">https://www.nature.com/articles/nature24270</a></li>
 </ul>
-<br>The main ideas which I discussed in this presentation were - Autocurricula, Emergent Behavior, Self-Play and Monte Carlo Tree Search. The lecture slides can be found [here.](../files/presentations/Multi_Agent_RL.pdf){:target="_blank"}  
+<br>The main ideas which I discussed in this presentation were - Autocurricula, Emergent Behavior, Self-Play and Monte Carlo Tree Search. The slides can be found [here.](../files/presentations/Multi_Agent_RL.pdf){:target="_blank"}  

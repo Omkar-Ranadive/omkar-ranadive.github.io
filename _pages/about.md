@@ -30,9 +30,10 @@ I am currently doing my Master's in Computer Science from Northwestern Universit
 <strong>Coursework:</strong>
 * <strong>Fall'19: </strong>CS349-Machine Learning, DS421-Statistics, CS496-Data Science Seminar, CS348-Intro to AI  <br>
 * <strong>Winter'20: </strong>CS496-Advanced Deep Learning, EE435-Deep Learning Foundations <br>
-* <strong>Spring'20: </strong>CS397-Statistical Language Modeling, CS336-Algorithms
+* <strong>Spring'20: </strong>CS397-Statistical Language Modeling, CS336-Algorithms <br>
+* <strong>Fall'21: </strong>MSIA490 - Social Network Analytics 
 
-<strong>Labs/Reading Groups: </strong>Research in Automated Listening Methods Lab, Modern Artificial General Intelligence and Computer Systems Lab, AI Journal Club
+<strong>Labs/Reading Groups: </strong>Research in Automated Listening Methods Lab (REALM), Modern Artificial General Intelligence and Computer Systems Lab (MAGICS), AI Journal Club
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/somaiya.png" style="padding-right:15px">
@@ -57,8 +58,8 @@ Experience
 I am a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory/vicky-kalogera/){:target="_blank"} Research Group and I will be responsible for developing Machine Learning algorithms and applying ML across different projects. <br><br>
 **Earthquake Detective:** <br> 
 **Advisor:** [Prof. Suzan Van Der Lee](http://geophysics.earth.northwestern.edu/seismology/suzan/){:target="_blank"}<br>
-We are developing Machine Learning algorithm to detect local earthquakes from seismic data and a ML based retirement algorithm for the [Earthquake Detective crowd-sourcing platform](https://www.zooniverse.org/projects/vivitang/earthquake-detective){:target="_blank"} on Zooniverse.  
-
+We are developing Machine Learning algorithm to detect local earthquakes from seismic data and a ML based retirement algorithm for the [Earthquake Detective crowd-sourcing platform](https://www.zooniverse.org/projects/vivitang/earthquake-detective){:target="_blank"} on Zooniverse.  <br>
+**Git repository: ** [Earthquake Detective](https://github.com/Omkar-Ranadive/Earthquake-Detective){:target="_blank"} <br>
 
 -----
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
