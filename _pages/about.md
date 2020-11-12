@@ -60,6 +60,7 @@ I am a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory
 **Advisor:** [Prof. Suzan Van Der Lee](http://geophysics.earth.northwestern.edu/seismology/suzan/){:target="_blank"}<br>
 We are developing Machine Learning algorithm to detect local earthquakes from seismic data and a ML based retirement algorithm for the [Earthquake Detective crowd-sourcing platform](https://www.zooniverse.org/projects/vivitang/earthquake-detective){:target="_blank"} on Zooniverse.  <br>
 **Git repository:** [Earthquake Detective](https://github.com/Omkar-Ranadive/Earthquake-Detective){:target="_blank"} <br>
+**Paper:** [https://arxiv.org/abs/2011.04740](https://arxiv.org/abs/2011.04740){:target="_blank"}
 
 -----
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
