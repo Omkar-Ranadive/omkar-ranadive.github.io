@@ -12,6 +12,36 @@
   {% assign title = post.title %}
 {% endif %}
 
+
+<style>
+  a .ca:hover {
+    text-decoration:underline;
+  }
+  .collapsible {
+  
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  margin-right: 5px;
+  text-align: left;
+  font-size: 15px;
+  }
+  
+  .active, .collapsible:hover {
+  background-color: #555;
+  }
+  
+  .content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  }
+  </style>
+
+
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -30,8 +60,22 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue %}<p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
+    {% if post.venue %}<p> {{ post.type }}, {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
     {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %} -->
+
+    {% if post.excerpt and site.read_more != 'enabled' %}
+	  <p class="archive__item-excerpt" itemprop="description"><p style="font-weight:bold">Abstract: </p>{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+    <button class="collapsible" id="{{ post.pid }}">View Abstract</button>
+    <div class="content" id="{{ post.pid }}data">
+      {{ post.excerpt}}      
+    </div>
+    {% endif %}
+
+    {% if post.link %}
+    <a href=" {{ post.link }} " target="_blank" style="text-decoration:none"><span class="ca"><strong>[View Talk/Slides]</strong></span></a> 
+    {% endif %}
+
   </article>
 </div>
