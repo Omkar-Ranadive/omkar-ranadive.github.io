@@ -31,7 +31,7 @@ I am currently doing my Master's in Computer Science from Northwestern Universit
 * <strong>Fall'19: </strong>CS349-Machine Learning, DS421-Statistics, CS496-Data Science Seminar, CS348-Intro to AI  <br>
 * <strong>Winter'20: </strong>CS496-Advanced Deep Learning, EE435-Deep Learning Foundations <br>
 * <strong>Spring'20: </strong>CS397-Statistical Language Modeling, CS336-Algorithms <br>
-* <strong>Fall'21: </strong>MSIA490 - Social Network Analytics 
+* <strong>Fall'20: </strong>MSIA490 - Social Network Analytics 
 
 <strong>Labs/Reading Groups: </strong>Research in Automated Listening Methods Lab (REALM), Modern Artificial General Intelligence and Computer Systems Lab (MAGICS), AI Journal Club
 
