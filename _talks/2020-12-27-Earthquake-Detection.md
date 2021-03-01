@@ -3,7 +3,7 @@ title: "Earthquake Detection using Crowd-sourced Data"
 pid: "5"
 collection: talks
 type: "Podcast"
-permalink: /talks/earthquake-neurips
+permalink: /talks/earthquake-dataskeptic
 venue: "Data Skeptic"
 date: 2020-12-27
 location: ""
