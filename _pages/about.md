@@ -23,7 +23,7 @@ Education
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
 
 **Master's in Computer Science, Northwestern University**
-#### September 2019 - Present
+#### September 2019 - March 2021
 -----
 I am currently doing my Master's in Computer Science from Northwestern University. <br>
 <strong>CGPA: </strong> 4.0/4.0 <br>
