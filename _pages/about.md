@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 ------
-I am a Computer Science graduate student at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/){:target="_blank"}. My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
+I am an incoming Applied Scientist at [Alchera Labs](https://alcherainc.com/en/){:target="_blank"}. My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
 
 My overarching goal is to develop AI algorithms which would bring us closer to attaining general intelligence. My other goal is to incorporate AI into different disciplines of science. I have always been enthralled by Computer Science as it is one of the few fields where practical results can be achieved quickly. I believe that by amalgamating AI with Computer Science,  people from all disciplines will be able to satisfy their curiosity, get practical results, perform better research and solve problems faster. 
 
-I have completed my Bachelors in Technology (B.Tech) in Computer Engineering from [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/kjsce/){:target="_blank"}. 
+I did my Master's in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/){:target="_blank"} and my Bachelor's (B.Tech) in Computer Engineering from [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/kjsce/){:target="_blank"}. 
 
-Other than science, I am an avid foodie and I love trying out new dishes. I also love travelling, reading manga and watching tv series and anime.   
+Other than science, I am an avid foodie and I love trying out new dishes. I also love to travel and explore, read manga and watch tv-series/anime.   
 
 My CV can be found [here.](../files/CV.pdf){:target="_blank"}
 
@@ -25,7 +25,6 @@ Education
 **Master's in Computer Science, Northwestern University**
 #### September 2019 - March 2021
 -----
-I am currently doing my Master's in Computer Science from Northwestern University. <br>
 <strong>CGPA: </strong> 4.0/4.0 <br>
 <strong>Coursework:</strong>
 * <strong>Fall'19: </strong>CS349-Machine Learning, DS421-Statistics, CS496-Data Science Seminar, CS348-Intro to AI  <br>
@@ -41,8 +40,6 @@ I am currently doing my Master's in Computer Science from Northwestern Universit
 **B.Tech in Computer Engineering, K.J Somaiya College of Engineering**
 #### 2015 - 2019 
 -----
-I did my Bachelor of Technology in Computer Engineering from K.J Somaiya College of Engineering. 
-<br>
 <strong>CGPA:</strong> 8.99/10 <br> 
 <strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning (Topper), Neural Nets, Image Analysis (Topper), Fundamentals of Programming (10/10, AP), Data Structures, Algorithms, Computer Architecture (10/10), Operating Systems (Topper) <br>
 <strong>Activities: </strong>Computer Society of India  
@@ -52,14 +49,15 @@ Experience
 <img align="left" height="100" width="180" src="../images/logos/ciera.jpg" style="padding-right:15px">
 
 **Researcher, CIERA** 
-#### June 2020 - Present 
+#### June 2020 - Jun 2021 
 
 ----- 
-I am a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory/vicky-kalogera/){:target="_blank"} Research Group and I will be responsible for developing Machine Learning algorithms and applying ML across different projects. <br><br>
+I was a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory/vicky-kalogera/){:target="_blank"} Research Group and was responsible for developing Machine Learning algorithms and applying ML across different projects. <br><br>
 **Earthquake Detective:** <br> 
 **Advisor:** [Prof. Suzan Van Der Lee](http://geophysics.earth.northwestern.edu/seismology/suzan/){:target="_blank"}<br>
-We are developing Machine Learning algorithm to detect local earthquakes from seismic data and a ML based retirement algorithm for the [Earthquake Detective crowd-sourcing platform](https://www.zooniverse.org/projects/vivitang/earthquake-detective){:target="_blank"} on Zooniverse.  <br>
+We compiled the first-ever ML benchmark dataset on potentially triggered seismic events and developed a ML algorithm which can detect these low-amplitude signals with high accuracy. <br>
 **Git repository:** [Earthquake Detective](https://github.com/Omkar-Ranadive/Earthquake-Detective){:target="_blank"} <br>
+**Website:** [Earthquake Detective crowd-sourcing platform](https://www.zooniverse.org/projects/vivitang/earthquake-detective){:target="_blank"} <br>
 **Paper:** [https://arxiv.org/abs/2011.04740](https://arxiv.org/abs/2011.04740){:target="_blank"}
 
 -----
@@ -77,7 +75,7 @@ We developed OtoWorld, an interactive environment for training reinforcement lea
 -----
 <img align="left" height="100" width="100" src="../images/logos/kj.jpg" style="padding-right:15px">
 
-**Deep Learning Intern, K.J Somaiya College of Engineering** 
+**Research Intern, K.J Somaiya College of Engineering** 
 #### January 2018 to April 2018
 -----
 **Advisor:** [Prof. Grishma Sharma](https://kjsce.somaiya.edu/en/view-member/160102?type=faculty){:target="_blank"} <br>
