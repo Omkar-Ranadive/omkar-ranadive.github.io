@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Omkar Ranadive"
   avatar           : "profile.jpg"
-  bio              : "Computer Science Graduate Student at Northwestern University"
-  location         : "Evanston, Illinois"
+  bio              : "Applied Scientist at Alchera Labs"
+  location         : "San Diego, California"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "omkar.ranadive@u.northwestern.edu"
+  email            : "omkar.ranadive@alcheralabs.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

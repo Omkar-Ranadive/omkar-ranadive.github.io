@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ------
-I am an incoming Applied Scientist at [Alchera Labs](https://alcherainc.com/en/){:target="_blank"}. My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
+I am currently working as an Applied Scientist at [Alchera Labs](https://alcherainc.com/en/){:target="_blank"}. My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
 
 My overarching goal is to develop AI algorithms which would bring us closer to attaining general intelligence. My other goal is to incorporate AI into different disciplines of science. I have always been enthralled by Computer Science as it is one of the few fields where practical results can be achieved quickly. I believe that by amalgamating AI with Computer Science,  people from all disciplines will be able to satisfy their curiosity, get practical results, perform better research and solve problems faster. 
 
@@ -23,7 +23,7 @@ Education
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
 
 **Master's in Computer Science, Northwestern University**
-#### September 2019 - March 2021
+#### Sep 2019 - Mar 2021
 -----
 <strong>CGPA: </strong> 4.0/4.0 <br>
 <strong>Coursework:</strong>
@@ -38,7 +38,7 @@ Education
 <img align="left" height="100" width="100" src="../images/logos/somaiya.png" style="padding-right:15px">
 
 **B.Tech in Computer Engineering, K.J Somaiya College of Engineering**
-#### 2015 - 2019 
+#### Aug 2015 - May 2019 
 -----
 <strong>CGPA:</strong> 8.99/10 <br> 
 <strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning (Topper), Neural Nets, Image Analysis (Topper), Fundamentals of Programming (10/10, AP), Data Structures, Algorithms, Computer Architecture (10/10), Operating Systems (Topper) <br>
@@ -46,10 +46,19 @@ Education
 
 Experience
 -----
+<img align="left" height="100" width="180" src="../images/logos/alchera.jpg" style="padding-right:15px">
+
+**Applied Scientist, Alchera Labs** 
+#### Jul 2021 - Present 
+
+-----
+Responsible for researching and developing ML algorithms and applying them across different Alchera products. 
+
+-----
 <img align="left" height="100" width="180" src="../images/logos/ciera.jpg" style="padding-right:15px">
 
 **Researcher, CIERA** 
-#### June 2020 - Jun 2021 
+#### Jun 2020 - Jun 2021 
 
 ----- 
 I was a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory/vicky-kalogera/){:target="_blank"} Research Group and was responsible for developing Machine Learning algorithms and applying ML across different projects. <br><br>
@@ -64,7 +73,7 @@ We compiled the first-ever ML benchmark dataset on potentially triggered seismic
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
 
 **Graduate Research Assistant, Northwestern University**
-#### January 2020 - June 2020  
+#### Jan 2020 - Jun 2020  
 
 -----
 **Advisor:** [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} <br>
@@ -76,7 +85,7 @@ We developed OtoWorld, an interactive environment for training reinforcement lea
 <img align="left" height="100" width="100" src="../images/logos/kj.jpg" style="padding-right:15px">
 
 **Research Intern, K.J Somaiya College of Engineering** 
-#### January 2018 to April 2018
+#### Jan 2018 to Apr 2018
 -----
 **Advisor:** [Prof. Grishma Sharma](https://kjsce.somaiya.edu/en/view-member/160102?type=faculty){:target="_blank"} <br>
 Researched different methodologies of k-shot learning for facial recognition system. We developed a facial recognition system which can be trained on a small number of samples (k samples) to perform fast and accurate recognition of faces. The link to the paper can be found [here.](https://www.ijcaonline.org/archives/volume181/number18/29966-2018917871){:target="_blank"}
@@ -85,7 +94,7 @@ Researched different methodologies of k-shot learning for facial recognition sys
 <img align="left" height="100" width="100" src="../images/logos/accelo.jpg" style="padding-right:15px">
 
 **Machine Learning Intern, Accelo Innovation** 
-#### August 2017 to October 2017
+#### Aug 2017 to Oct 2017
 -----
 Accelo Innovation is a tech startup working in the segment of accident reduction and assistance. As a machine learning intern, I worked on the following: 
 * Designing of lane detection, object detection and depth mapping modules 
@@ -95,7 +104,7 @@ Accelo Innovation is a tech startup working in the segment of accident reduction
 <img align="left" height="100" width="100" src="../images/logos/csi.png" style="padding-right:15px">
 
 **Computer Society of India, KJSCE Student's Chapter** 
-#### March 2016 to July 2017
+#### Mar 2016 to Jul 2017
 -----
 I worked as a first year representative at [CSI](http://csikjsce.org/){:target="_blank"} from March 2016 to July 2016. As a first year representative, I was responsible for managing different technical events and seminars conducted by CSI. Then, I worked as a second year representative from July 2016 to July 2017. As a second year representative, I was more involved and I performed the following activities: 
 * Created technical content for workshops and coding questions for competitions 
