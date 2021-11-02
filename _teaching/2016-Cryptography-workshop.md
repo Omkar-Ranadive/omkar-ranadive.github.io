@@ -8,4 +8,4 @@ date: 2016-10-16
 location: "Mumbai, India"
 ---
 
-Conducted workshop on basics of cryptography, different types of ciphers (Caesar, PlayFair, Vigenere) and Public-Key Cryptography. 
+<b>Description:</b> Conducted workshop on basics of cryptography, different types of ciphers (Caesar, PlayFair, Vigenere) and Public-Key Cryptography. 
