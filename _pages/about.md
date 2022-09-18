@@ -14,7 +14,7 @@ My overarching goal is to develop AI algorithms which would bring us closer to a
 
 I did my Master's in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/){:target="_blank"} and my Bachelor's (B.Tech) in Computer Engineering from [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/kjsce/){:target="_blank"}. 
 
-Other than science, I am an avid foodie and I love trying out new dishes. I also love to travel and explore, read manga and watch tv-series/anime.   
+In my free time, I love to try out new dishes and restaurants, play tennis, read manga, and travel/explore new places.  
 
 My CV can be found [here.](../files/CV.pdf){:target="_blank"}
 
