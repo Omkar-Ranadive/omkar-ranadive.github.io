@@ -10,7 +10,7 @@ redirect_from:
 ------
 I am currently working as an Applied Scientist at [Alchera Labs](https://alcherainc.com/en/){:target="_blank"}. My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
 
-My overarching goal is to develop AI algorithms which would bring us closer to attaining general intelligence. My other goal is to incorporate AI into different disciplines of science. I have always been enthralled by Computer Science as it is one of the few fields where practical results can be achieved quickly. I believe that by amalgamating AI with Computer Science,  people from all disciplines will be able to satisfy their curiosity, get practical results, perform better research and solve problems faster. 
+My overarching goal is to develop AI algorithms which would bring us closer to attaining general intelligence. My other goal is to incorporate AI into different disciplines of science. I have always been enthralled by Computer Science as it is one of the few fields where practical results can be achieved quickly. I believe that by amalgamating AI with Computer Science, people from all disciplines will be able to satisfy their curiosity, get practical results, perform better research and solve problems faster. 
 
 I did my Master's in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/){:target="_blank"} and my Bachelor's (B.Tech) in Computer Engineering from [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/kjsce/){:target="_blank"}. 
 
@@ -49,7 +49,7 @@ Experience
 <img align="left" height="100" width="180" src="../images/logos/alchera.jpg" style="padding-right:15px">
 
 **Applied Scientist, Alchera Labs** 
-#### Jul 2021 - Present 
+#### Jul 2021 - Oct 2022 
 
 -----
 Responsible for researching and developing ML algorithms and applying them across different Alchera products. 
@@ -67,7 +67,7 @@ I was a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/director
 We compiled the first-ever ML benchmark dataset on potentially triggered seismic events and developed a ML algorithm which can detect these low-amplitude signals with high accuracy. <br>
 **Git repository:** [Earthquake Detective](https://github.com/Omkar-Ranadive/Earthquake-Detective){:target="_blank"} <br>
 **Website:** [Earthquake Detective crowd-sourcing platform](https://www.zooniverse.org/projects/vivitang/earthquake-detective){:target="_blank"} <br>
-**Paper:** [https://arxiv.org/abs/2011.04740](https://arxiv.org/abs/2011.04740){:target="_blank"}
+**Paper:** [Applying Machine Learning to Crowd-sourced Data from Earthquake Detective](https://arxiv.org/abs/2011.04740){:target="_blank"}
 
 -----
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
@@ -79,7 +79,7 @@ We compiled the first-ever ML benchmark dataset on potentially triggered seismic
 **Advisor:** [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} <br>
 We developed OtoWorld, an interactive environment for training reinforcement learning agents for the task of audio separation. The environment is designed to facilitate reinforcement learning research in computer audition. <br>
 **Git repository:** [OtoWorld](https://github.com/pseeth/otoworld){:target="_blank"} <br>
-**Paper:**  [https://arxiv.org/pdf/2007.06123.pdf](https://arxiv.org/pdf/2007.06123.pdf){:target="_blank"}
+**Paper:**  [OtoWorld: Towards Learning to Separate by Learning to Move](https://arxiv.org/pdf/2007.06123.pdf){:target="_blank"}
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/kj.jpg" style="padding-right:15px">
@@ -88,7 +88,8 @@ We developed OtoWorld, an interactive environment for training reinforcement lea
 #### Jan 2018 to Apr 2018
 -----
 **Advisor:** [Prof. Grishma Sharma](https://kjsce.somaiya.edu/en/view-member/160102?type=faculty){:target="_blank"} <br>
-Researched different methodologies of k-shot learning for facial recognition system. We developed a facial recognition system which can be trained on a small number of samples (k samples) to perform fast and accurate recognition of faces. The link to the paper can be found [here.](https://www.ijcaonline.org/archives/volume181/number18/29966-2018917871){:target="_blank"}
+Researched different methodologies of k-shot learning for facial recognition system. We developed a facial recognition system which can be trained on a small number of samples (k samples) to perform fast and accurate recognition of faces. <br>
+**Paper:** [k-Shot Learning for Face Recognition](https://www.ijcaonline.org/archives/volume181/number18/29966-2018917871){:target="_blank"}
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/accelo.jpg" style="padding-right:15px">
@@ -96,18 +97,15 @@ Researched different methodologies of k-shot learning for facial recognition sys
 **Machine Learning Intern, Accelo Innovation** 
 #### Aug 2017 to Oct 2017
 -----
-Accelo Innovation is a tech startup working in the segment of accident reduction and assistance. As a machine learning intern, I worked on the following: 
-* Designing of lane detection, object detection and depth mapping modules 
-* Integration of the modules with a CNN model to create a usable API 
+Responsible for developing lane detection, object detection, and depth mapping modules for Accelo's assistive driving system. 
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/csi.png" style="padding-right:15px">
 
-**Computer Society of India, KJSCE Student's Chapter** 
+**Student Representative, Computer Society of India, KJSCE Student's Chapter** 
 #### Mar 2016 to Jul 2017
 -----
-I worked as a first year representative at [CSI](http://csikjsce.org/){:target="_blank"} from March 2016 to July 2016. As a first year representative, I was responsible for managing different technical events and seminars conducted by CSI. Then, I worked as a second year representative from July 2016 to July 2017. As a second year representative, I was more involved and I performed the following activities: 
 * Created technical content for workshops and coding questions for competitions 
-* Taught in workshops like Machine Learning and Crytography 
-* Managed 20+ events and seminars 
+* Taught in Machine Learning and Crytography workshops 
+* Managed over 20+ events and seminars 
 

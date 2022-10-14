@@ -222,12 +222,16 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    mini_portile2 (2.6.1)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.15.0)
     multipart-post (2.1.1)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
+      racc (~> 1.4)
     nokogiri (1.12.5-arm64-darwin)
       racc (~> 1.4)
     octokit (4.21.0)
@@ -262,17 +266,21 @@ GEM
     thread_safe (0.3.6)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
-    tzinfo (1.2.9)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2022.5)
+      tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8)
     unicode-display_width (1.8.0)
+    wdm (0.1.1)
     webrick (1.7.0)
     zeitwerk (2.5.1)
 
 PLATFORMS
   arm64-darwin-20
+  x64-mingw-ucrt
 
 DEPENDENCIES
   github-pages
@@ -282,6 +290,7 @@ DEPENDENCIES
   kramdown-parser-gfm
   tzinfo (~> 1.2)
   tzinfo-data
+  wdm (~> 0.1.0)
   webrick (~> 1.7)
 
 BUNDLED WITH
