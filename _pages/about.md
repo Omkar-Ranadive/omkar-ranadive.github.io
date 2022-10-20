@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 ------
-I am currently working as an Applied Scientist at [Alchera Labs](https://alcherainc.com/en/){:target="_blank"}. My areas of research include Machine Learning, Deep Learning and Reinforcement Learning. 
-
-My overarching goal is to develop AI algorithms which would bring us closer to attaining general intelligence. My other goal is to incorporate AI into different disciplines of science. I have always been enthralled by Computer Science as it is one of the few fields where practical results can be achieved quickly. I believe that by amalgamating AI with Computer Science, people from all disciplines will be able to satisfy their curiosity, get practical results, perform better research and solve problems faster. 
+I am currently working as an Applied Scientist at [Alchera Labs](https://alcherainc.com/en/){:target="_blank"}. My research interests lie broadly in Machine Learning, Deep Learning, and Reinforcement Learning. More specifically, I am most interested in understanding the “why” behind neural networks and its processes and using this knowledge to develop more intelligent algorithms. My second goal is to incorporate AI algorithms into different disciplines of science so that people from different disciplines can solve problems faster and expedite the scientific research process. 
 
 I did my Master's in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/){:target="_blank"} and my Bachelor's (B.Tech) in Computer Engineering from [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/kjsce/){:target="_blank"}. 
 
