@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ------
-I am currently working as an Applied Scientist at [Alchera Labs](https://alcherainc.com/en/){:target="_blank"}. My research interests lie broadly in Machine Learning, Deep Learning, and Reinforcement Learning. More specifically, I am most interested in understanding the “why” behind neural networks and its processes and using this knowledge to develop more intelligent algorithms. My second goal is to incorporate AI algorithms into different disciplines of science so that people from different disciplines can solve problems faster and expedite the scientific research process. 
+I am currently working as a Research Specialist at [NU Earth](https://www.earth.northwestern.edu/){:target="_blank"}. Previously, I have worked as an Applied Scientist at [Alchera Labs](https://alcherainc.com/en/){:target="_blank"} and as a Researcher at [CIERA](https://ciera.northwestern.edu/){:target="_blank"}. My research interests lie broadly in Machine Learning, Deep Learning, and Reinforcement Learning. More specifically, I am most interested in understanding the “why” behind neural networks and its processes and using this knowledge to develop more intelligent algorithms. My second goal is to incorporate AI algorithms into different disciplines of science so that people from different disciplines can solve problems faster and expedite the scientific research process. 
 
 I did my Master's in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/){:target="_blank"} and my Bachelor's (B.Tech) in Computer Engineering from [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/kjsce/){:target="_blank"}. 
 
