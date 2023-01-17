@@ -44,6 +44,15 @@ Education
 
 Experience
 -----
+<img align="left" height="100" width="100" src="../images/logos/nu_earth.png" style="padding-right:15px">
+
+**Research Specialist, NU Earth** 
+#### Nov 2022 - Present
+
+-----
+Developing unsupervised learning algorithms to analyze and detect small seismic events in highly fluctuating and noisy urban seismic data from Greater Chicago area.
+
+-----
 <img align="left" height="100" width="180" src="../images/logos/alchera.jpg" style="padding-right:15px">
 
 **Applied Scientist, Alchera Labs** 
