@@ -14,7 +14,7 @@ I did my Master's in Computer Science from [Northwestern University](https://www
 
 In my free time, I love to try out new dishes and restaurants, play tennis, read manga, and travel/explore new places.  
 
-My CV can be found [here.](../files/CV.pdf){:target="_blank"}
+My CV can be found [here.](../files/CV.pdf){:target="_blank"} Please drop me an email if you have any questions related to my research or if you are interested in a research collaboration.  
 
 Education
 -----
@@ -50,7 +50,7 @@ Experience
 #### Nov 2022 - Present
 
 -----
-Developing unsupervised learning algorithms to analyze and detect small seismic events in highly fluctuating and noisy urban seismic data from Greater Chicago area.
+Developing unsupervised learning algorithms to analyze and detect small seismic events in highly fluctuating and noisy urban seismic data from Greater Chicago area. Developing and maintaining repository to analyze seismic events on Mars
 
 -----
 <img align="left" height="100" width="180" src="../images/logos/alchera.jpg" style="padding-right:15px">
