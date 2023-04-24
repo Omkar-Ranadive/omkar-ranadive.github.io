@@ -7,5 +7,3 @@ venue: "K.J Somaiya College of Engineering"
 date: 2016-10-16
 location: "Mumbai, India"
 ---
-
-<b>Description:</b> Conducted workshop on basics of cryptography, different types of ciphers (Caesar, PlayFair, Vigenere) and Public-Key Cryptography. 

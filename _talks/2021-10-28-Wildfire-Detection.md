@@ -3,7 +3,7 @@ title: "Using machine learning to detect wildfires"
 pid: "8"
 collection: talks
 type: "Data Science Nights"
-permalink: /talks/muzero
+permalink: /talks/wfd_nico
 venue: "Northwestern Institute On Complex Systems"
 date: 2021-10-28
 location: ""

@@ -26,15 +26,15 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h3 class="archive__item-title" itemprop="headline">
       {% if post.link and post.viewable %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% elsif post.viewable %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% else %}
-        <h2>{{ title }}</h2>
+        <h3>{{ title }}</h3>
       {% endif %}
-    </h2>
+    </h3>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -42,23 +42,23 @@
 
         {% if post.collection == 'projects' %}
             {% if post.from == post.to %}
-              <p><i>{{ post.from }} </i></p>
+              <p style="font-size:15px;">{{ post.from }}</p>
             {% else %}
-              <p><i>{{ post.from }} to {{post.to}}</i></p> 
+              <p style="font-size:15px;">{{ post.from }} to {{post.to}}</p> 
             {% endif %}
         {% endif %}
 
     {% if post.description  %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.description | markdownify }}</p>
+      <p style="font-size: 15px;" class="archive__item-excerpt" itemprop="description">{{ post.description }}</p>
       {% if post.viewable %}
         <p>Detailed project info <a href=" {{ post.url }}"><u>here</u></a></p>
         <br>
       {% endif %}
       {% if post.gitlink %}
-        <p>Git Repo:  <a href="{{ post.gitlink }}" target="_blank"><i class="fab fa-github-alt fa-2x" style="color:black"></i></a></p>
+        <p style="font-size: 15px;">Git Repo:  <a href="{{ post.gitlink }}" target="_blank"><i class="fab fa-github-alt fa-2x" style="color:black; font-size:20px;"></i></a></p>
       {% endif %}
       {% if post.report %}
-      <p>Report:  <a href="{{ post.report }}" target="_blank"><i class="fas fa-file-alt fa-2x" style="color:black"></i></a></p>
+      <p style="font-size: 15px">Report:  <a href="{{ post.report }}" target="_blank"><i class="fas fa-file-alt fa-2x" style="color:black; font-size:20px;"></i></a></p>
     {% endif %}
     {% elsif post.description and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
@@ -67,7 +67,7 @@
         <br>
       {% endif %}
       {% if post.gitlink %}
-        <p>Git Repo:  <a href="{{ post.gitlink }}" target="_blank"><i class="fab fa-github-alt fa-2x" style="color:black"></i></a></p>
+        <p style="font-size: 15px;">Git Repo:  <a href="{{ post.gitlink }}" target="_blank"><i class="fab fa-github-alt fa-2x" style="color:black; font-size:20px;"></i></a></p>
       {% endif %}
     {% endif %}
 

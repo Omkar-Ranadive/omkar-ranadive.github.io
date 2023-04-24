@@ -13,8 +13,19 @@ author_profile: true
 
 {% include base_path %}
 
+## Conference Papers 
 {%- for post in site.publications reversed -%}
-  {%- include archive-single-publications.html -%}
+  {%- include archive-single-publications-conf.html -%}
+{%- endfor -%}
+
+## Journal Articles 
+{%- for post in site.publications reversed -%}
+  {%- include archive-single-publications-journal.html -%}
+{%- endfor -%}
+
+## Abstracts
+{%- for post in site.publications reversed -%}
+  {%- include archive-single-publications-abs.html -%}
 {%- endfor -%}
 
 {% include collapse_content.html %}
