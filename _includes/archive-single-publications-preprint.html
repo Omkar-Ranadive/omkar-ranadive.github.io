@@ -1,0 +1,104 @@
+{% if post.type == 'preprint' %}
+
+{% include base_path %}
+
+
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<style>
+  a .ca:hover {
+    text-decoration:underline;
+  }
+  .collapsible {
+  
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  margin-right: 5px;
+  text-align: left;
+  font-size: 15px;
+  }
+  
+  .active, .collapsible:hover {
+  background-color: #555;
+  }
+  
+  .content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  font-size: 14px;
+  }
+  </style>
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <h3 class="archive__item-title" itemprop="headline">
+      <!-- {% if post.link %}
+        <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a> <a href="{{ post.paperurl }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %} -->
+        <!-- <a href="{{ post.paperurl }}" rel="permalink" target="_blank">{{ title }}</a> -->
+      <!-- {% endif %} -->
+      {{ title }}
+    </h3>
+    
+    {% if post.read_time %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+
+        {% if post.collection == 'teaching' %}
+          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y"}} </p>
+        {% elsif post.collection == 'publications' %}
+          <p style="font-size:15px">{{ post.authors }}</p>
+          <p style="font-size:15px">{{ post.venue }}</p>
+        {% elsif post.date %}
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+        {% endif %}
+
+    {% if post.excerpt and site.read_more != 'enabled' %}
+	  <p class="archive__item-excerpt" itemprop="description"><p style="font-weight:bold">Abstract: </p>{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+    <button style="font-size:12px;" class="collapsible" id="{{ post.pid }}">Abstract</button>
+    <div class="content" id="{{ post.pid }}data">
+      {{ post.excerpt | markdownify }}      
+    </div>
+    {% endif %}
+    
+    {% if post.citation %}
+    <p>Recommended citation: {{ post.citation }} </p> <br>
+  {% endif %}
+  {% if post.paperurl and post.giturl%}
+    <a href=" {{ post.paperurl }} " target="_blank" style="text-decoration:none; font-size:14px"><span class="ca"><strong>[PDF]</strong></span></a> 
+    <a href=" {{ post.giturl }} " target="_blank" style="text-decoration:none;  font-size:14px"><span class="ca"><strong>[Code]</strong></span></a>
+  {% elsif post.paperurl %}
+     <a href=" {{ post.paperurl }} " target="_blank" style="text-decoration:none; font-size:14px"><span class="ca"><strong>[PDF]</strong></span></a>
+  {% endif %}
+  <hr>
+  </article>
+</div>
+{% endif %}
