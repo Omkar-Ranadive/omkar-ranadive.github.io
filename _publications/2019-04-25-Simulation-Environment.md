@@ -10,5 +10,5 @@ venue: '2nd International Conference on Advances in Science & Technology (ICAST 
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3367735'
 giturl: "https://github.com/Omkar-Ranadive/Simulation-Environment"
 citation:
-type: journal 
+type: conf 
 ---
