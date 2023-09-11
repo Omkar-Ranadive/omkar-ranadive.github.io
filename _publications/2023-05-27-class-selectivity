@@ -5,10 +5,10 @@ permalink:
 pid: "7"
 authors: <b>Omkar Ranadive</b>, Nikhil Thakurdesai, Ari S Morcos, Matthew Leavitt, Stéphane Deny
 excerpt: 'It is commonly observed that deep networks trained for classification exhibit class-selective neurons in their early and intermediate layers. Intriguingly, recent studies have shown that these class-selective neurons can be ablated without deteriorating network function. But if class-selective neurons are not necessary, why do they exist? We attempt to answer this question in a series of experiments on ResNet-50s trained on ImageNet. We first show that class-selective neurons emerge during the first few epochs of training, before receding rapidly but not completely; this suggests that class-selective neurons found in trained networks are in fact vestigial remains of early training. With single-neuron ablation experiments, we then show that class-selective neurons are important for network function in this early phase of training. We also observe that the network is close to a linear regime in this early phase; we thus speculate that class-selective neurons appear early in training as quasi-linear shortcut solutions to the classification task. Finally, in causal experiments where we regularize against class selectivity at different points in training, we show that the presence of class-selective neurons early in training is critical to the successful training of the network; in contrast, class-selective neurons can be suppressed later in training with little effect on final accuracy. It remains to be understood by which mechanism the presence of class-selective neurons in the early phase of training contributes to the successful training of networks.'
-date: 2023-05-27
-venue: 'arXiv preprint 2023'
-paperurl: https://arxiv.org/abs/2305.17409
-giturl: 
+date: 2023-09-07
+venue: 'Transactions on Machine Learning Research, 2023'
+paperurl: https://openreview.net/forum?id=JaNlH6dZYk
+giturl: https://github.com/Omkar-Ranadive/Class-Selective-Neurons
 citation: 
-type: preprint 
+type: journal 
 ---
