@@ -7,6 +7,6 @@ viewable: false
 gitlink: https://github.com/Omkar-Ranadive/Marsquakes
 report: 
 from: Jan 2023
-to: Present
+to: Jan 2023
 date: 2023-01-20
 ---

@@ -59,7 +59,7 @@ My CV can be found [here.](../files/CV.pdf){:target="_blank"} Please drop me an 
 <span style="font-size: 14px"><strong>Nov 2022 - Present </strong></span>
 
 -----
-Developing machine learning algorithms to analyze and detect small seismic events in highly fluctuating and noisy urban seismic data from Greater Chicago area. Developing and maintaining repository to analyze seismic events on Mars.
+Responsible for developing programming tools and machine learning algorithms for a wide range of projects.
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/alchera.jpg" style="padding-right:15px">
@@ -69,7 +69,10 @@ Developing machine learning algorithms to analyze and detect small seismic event
 <span style="font-size: 14px"><strong>Jul 2021 - Oct 2022 </strong></span>
 
 -----
-Responsible for researching and developing ML algorithms and applying them across different Alchera products. 
+* Developed [FireScout](https://firescout.ai/){:target="_blank"}, an early detection system for wildfires which can detect wildfire smoke with 91.6% accuracy. 
+* Researched the emergence and importance of class-selective neurons during the early epochs of training and demonstrated through a set of experiments that class selectivity is essential for successful training. 
+  * **Paper:** [On the special role of class-selective neurons in early training](https://openreview.net/forum?id=JaNlH6dZYk){:target="_blank"}
+  * **Git repository:** [Class Selective Neurons](https://github.com/Omkar-Ranadive/Class-Selective-Neurons){:target="_blank"}
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/ciera.jpg" style="padding-right:15px">
