@@ -24,7 +24,7 @@ const allCountries = [
   "US", "IN", "SG", "MY", "TH", "GB", "FR", "IT", "AT", "CH", "VA", "LI"
   ];
   
-  const addInfo = {"US": "18 states visited", "IN": "6 states visited"}
+  const addInfo = {"US": "24 states visited", "IN": "6 states visited"}
   
   // Define colors for visited and not visited countries
   const colorVisitedTrue = '#e06666'; 

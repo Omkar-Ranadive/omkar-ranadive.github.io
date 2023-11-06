@@ -98,7 +98,7 @@ We compiled the first-ever ML benchmark dataset on potentially triggered seismic
 <span style="font-size: 14px"><strong>Jan 2020 - Jun 2020</strong></span>
 
 -----
-**Advisor:** [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} <br>
+**Advisor:** [Dr. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} <br>
 We developed OtoWorld, an interactive environment for training reinforcement learning agents for the task of audio separation. The environment is designed to facilitate reinforcement learning research in computer audition. <br>
 **Git repository:** [OtoWorld](https://github.com/pseeth/otoworld){:target="_blank"} <br>
 **Paper:**  [OtoWorld: Towards Learning to Separate by Learning to Move](https://arxiv.org/pdf/2007.06123.pdf){:target="_blank"}
