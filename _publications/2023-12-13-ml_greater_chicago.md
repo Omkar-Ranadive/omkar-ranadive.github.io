@@ -1,0 +1,13 @@
+---
+title: "Towards Detecting Small, Local Earthquakes in Greater Chicago Using Single-station Data"
+collection: publications
+permalink: 
+pid: "8"
+authors: Ann Thomas, <b>Omkar Ranadive</b>, Suzan van der Lee
+excerpt: "Intraplate earthquakes have longer recurrence times and less confined locations than plate boundary earthquakes. Consequently, they can wreak havoc by catching populations that are relatively unprepared. Interplate areas also suffer from sparse instrumentation and historical records, compared to regions along tectonic boundaries. The Chicago metropolitan area, which has witnessed a handful of felt earthquakes in the past century, is a data-sparse area of strong concern due to its high population and building density. To understand seismic hazards in this urban inraplate area, we aim to detect small local earthquakes, including potential aftershocks of the 2013 M3.2 earthquake that occurred near a suburban quarry, using data from a single broadband seismometer. Due to the noisy, urban and industrial setting of the seismometer and the lack of recorded earthquakes to be used as templates, traditional methods like the STA/LTA ratio method and waveform cross correlation are ill-suited for our aim. To build a model that is better adapted to our noisy urban and industrial environment, we trained a tree-based classifier to detect and distinguish local earthquakes, man-made blasts, and other sources of noise from single-station data. Features for our classifier include conventional metrics such as STA/LTA ratios and power spectral density (PSD) values along with features based on higher-order statistics (e.g. skewness and kurtosis) and frequency bands pertinent to urban environments. The sparsity of earthquakes in the area posed the primary challenge for our aim, in both training and testing our model. To combat this sparsity, we created synthetic samples of earthquakes by augmenting seismograms from the STanford EArthquake Dataset (STEAD) with synthetic, stationary noise, created from averaged Chicago noise PSDs. We will present the results of our model’s application on continuous, single-station data in the Chicago area and compare our detections with those using the STA/LTA method and the deep learning model EQTransformer. We will also discuss the model's interpretability and generalizability by presenting the results from our feature analysis and the application of our classifier on urban earthquake data outside of Chicago."
+date: 2023-12-13
+venue: 'AGU Fall Meeting 2023'
+paperurl: 'https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1315849'
+citation: 
+type: abs 
+---
