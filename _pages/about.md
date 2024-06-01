@@ -11,7 +11,7 @@ redirect_from:
 ------
 I am currently working as a Research Specialist at [NU Earth](https://www.earth.northwestern.edu/){:target="_blank"}. Previously, I have worked as an Applied Scientist at [Alchera Labs](https://alcherainc.com/en/){:target="_blank"}, and as a Researcher at [CIERA](https://ciera.northwestern.edu/){:target="_blank"}. 
 
-My research interests lie broadly in Machine Learning, Deep Learning, and Reinforcement Learning. More specifically, my primary research interest is in understanding the underlying behavior and function of neural networks through empirical experiments and foundational theory, and using this knowledge to develop more intelligent systems. Additionally, I am also interested in integrating machine learning algorithms into the scientific development process across various disciplines such that it would help expedite the pace of scientific research.
+My research interests lie broadly in Machine Learning, Deep Learning, and Reinforcement Learning. More specifically, my primary research interest is in the science of deep learning, i.e., understanding the underlying behavior and function of neural networks through empirical experiments and foundational theory, and using this knowledge to develop more intelligent systems. Additionally, I am also interested in integrating machine learning algorithms into the scientific development process across various disciplines such that it would help expedite the pace of scientific research.
 
 I completed my M.S. in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/){:target="_blank"} and my B.Tech. in Computer Engineering from [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/kjsce/){:target="_blank"}. 
 
@@ -56,10 +56,16 @@ My CV can be found [here.](../files/CV.pdf){:target="_blank"} Please drop me an 
 
 <span style="font-size: 22px"><strong>NU Earth</strong></span><br>
 <span style="font-size: 18px"><strong>Research Specialist</strong></span><br>
-<span style="font-size: 14px"><strong>Nov 2022 - Present </strong></span>
+<span style="font-size: 14px"><strong>Nov 2022 - Apr 2024 </strong></span>
 
 -----
-Responsible for developing programming tools and machine learning algorithms for a wide range of projects.
+* Developed machine learning approaches for detecting small seismic events in noisy urban environments.  
+* Developed an algorithm for the problem of Electrical Impedance Tomography, aimed at optimizing sensitivity volume by efficiently selecting a small subset of rows from a large matrix.
+* Developed [Earthtunes](https://sites.northwestern.edu/earthtunes/){:target="_blank"}, a mobile app which allows users to listen to normally inaudible sounds within the Earth.
+* Developed an analytical framework to analyze seismic events on Mars.
+  * **Git repository:** [Marsquakes](https://github.com/Omkar-Ranadive/Marsquakes){:target="_blank"}
+* Developed Pysmo, a modular Python framework for seismology.
+  * **Git repository:** [pysmo](https://github.com/pysmo/pysmo){:target="_blank"}
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/alchera.jpg" style="padding-right:15px">
@@ -70,6 +76,7 @@ Responsible for developing programming tools and machine learning algorithms for
 
 -----
 * Developed [FireScout](https://firescout.ai/){:target="_blank"}, an early detection system for wildfires which can detect wildfire smoke with 91.6% accuracy. 
+  * **Paper:** [Image-based Early Detection System for Wildfires](https://arxiv.org/abs/2211.01629){:target="_blank"}
 * Researched the emergence and importance of class-selective neurons during the early epochs of training and demonstrated through a set of experiments that class selectivity is essential for successful training. 
   * **Paper:** [On the special role of class-selective neurons in early training](https://openreview.net/forum?id=JaNlH6dZYk){:target="_blank"}
   * **Git repository:** [Class Selective Neurons](https://github.com/Omkar-Ranadive/Class-Selective-Neurons){:target="_blank"}

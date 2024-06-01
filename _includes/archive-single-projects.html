@@ -12,6 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
+<!-- https://fontawesome.com/v4/icons/ -->
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -55,11 +57,14 @@
         <br>
       {% endif %}
       {% if post.gitlink %}
-        <p style="font-size: 15px;">Git Repo:  <a href="{{ post.gitlink }}" target="_blank"><i class="fab fa-github-alt fa-2x" style="color:black; font-size:20px;"></i></a></p>
+        <p style="font-size: 15px;">Git Repo:  <a href="{{ post.gitlink }}" target="_blank"><i class="fab fa-github fa-2x" style="color:black; font-size:20px;"></i></a></p>
       {% endif %}
       {% if post.report %}
       <p style="font-size: 15px">Report:  <a href="{{ post.report }}" target="_blank"><i class="fas fa-file-alt fa-2x" style="color:black; font-size:20px;"></i></a></p>
-    {% endif %}
+      {% endif %}
+      {% if post.website %}
+      <p style="font-size: 15px">Website:  <a href="{{ post.website }}" target="_blank"><i class="fas fa-globe fa-2x" style="color:black; font-size:20px;"></i></a></p>
+      {% endif %}
     {% elsif post.description and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
       {% if post.viewable %}

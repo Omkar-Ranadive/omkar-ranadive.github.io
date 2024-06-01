@@ -2,7 +2,7 @@
 title: "Marsquakes"
 collection: projects 
 permalink: /projects/marsquakes
-description: "Analyze seismic events on Mars"
+description: "Analyze seismic events on Mars."
 viewable: false
 gitlink: https://github.com/Omkar-Ranadive/Marsquakes
 report: 
