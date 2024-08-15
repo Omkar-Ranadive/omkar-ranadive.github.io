@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Workshop"
 collection: teaching
-type: "CSI Workshop"
+type: "Lecturer, CSI Workshop"
 permalink: /teaching/2016-ML-workshop
 venue: "K.J Somaiya College of Engineering"
 date: 2016-09-27

@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Omkar Ranadive"
   avatar           : "profile.jpg"
-  bio              : "Research Specialist at NU Earth"
+  bio              : "Academic Visitor at Aalto University"
   location         : "Reading, England"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=x_2KVdQAAAAJ&hl=en"
   email            : "omkar.ranadive@u.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
