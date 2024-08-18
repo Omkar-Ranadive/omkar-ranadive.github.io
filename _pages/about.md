@@ -157,4 +157,71 @@ Responsible for developing lane detection, object detection, and depth mapping m
 -----
 ## Travel Map
 A travel map showcasing all the countries I have been to!
+
+<details>
+<summary>Europe</summary>
+  <ol>
+    <li>England</li>
+    <li>France</li>
+    <li>Italy</li>
+    <li>Austria</li>
+    <li>Liechtenstein</li>
+    <li>Vatican City</li>
+    <li>Switzerland</li>
+  </ol>
+</details>
+
+<details>
+<summary>Asia</summary>
+ <ol>
+    <li>Singapore</li>
+    <li>Thailand</li>
+    <li>Malaysia</li>
+    <li>India</li>
+    <ol>
+        <li>Maharashtra</li>
+        <li>Goa</li>
+        <li>Rajasthan</li>
+        <li>Telangana</li>
+        <li>Himachal Pradesh</li>
+        <li>Kerala</li>
+        <li>Karnataka</li>
+        <li>Tamil Nadu</li>
+    </ol>
+  </ol>
+</details>
+
+<details>
+<summary>North America</summary>
+<ol>
+<li>USA</li>
+<ol>
+    <li>New York</li>
+    <li>Washington DC</li>
+    <li>Maryland</li>
+    <li>Virginia</li>
+    <li>New Jersey</li>
+    <li>Illinois</li>
+    <li>Wisconsin</li>
+    <li>Florida</li>
+    <li>California</li>
+    <li>Nevada</li>
+    <li>Arizona</li>
+    <li>Colorado</li>
+    <li>Tennessee</li>
+    <li>Atlanta</li>
+    <li>South Carolina</li>
+    <li>North Carolina</li>
+    <li>Oregon</li>
+    <li>Washington</li>
+    <li>Massachusetts</li>
+    <li>New Hampshire</li>
+    <li>Vermont</li>
+    <li>Maine</li>
+    <li>Rhode Island</li>
+    <li>Connecticut</li>
+</ol>
+</ol>
+</details>
+
 {%- include travel.html -%}

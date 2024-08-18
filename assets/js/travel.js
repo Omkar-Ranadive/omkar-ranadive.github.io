@@ -66,5 +66,6 @@ const allCountries = [
   }
   });
   
-  // Update the HTML element to display the length of visCountries
+
+// Update the HTML element to display the length of visCountries
   document.getElementById('visitedCount').textContent = visCountries.length;
