@@ -168,6 +168,7 @@ A travel map showcasing all the countries I have been to!
     <li>Liechtenstein</li>
     <li>Vatican City</li>
     <li>Switzerland</li>
+    <li>Wales</li>
   </ol>
 </details>
 

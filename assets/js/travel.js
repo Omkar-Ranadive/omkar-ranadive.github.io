@@ -16,12 +16,12 @@ const allCountries = [
     "QA", "RE", "RO", "RU", "RW", "BL", "SH", "KN", "LC", "MF", "PM", "VC", "WS", "SM", "ST",
     "SA", "SN", "RS", "SC", "SL", "SG", "SX", "SK", "SI", "SB", "SO", "ZA", "GS", "SS", "ES",
     "LK", "SD", "SR", "SJ", "SE", "CH", "SY", "TW", "TJ", "TZ", "TH", "TL", "TG", "TK", "TO",
-    "TT", "TN", "TR", "TM", "TC", "TV", "UG", "UA", "AE", "GB", "UM", "US", "UY", "UZ", "VU",
-    "VE", "VN", "VG", "VI", "WF", "EH", "YE", "ZM", "ZW"
+    "TT", "TN", "TR", "TM", "TC", "TV", "UG", "UA", "AE", "GB", "GB-ENG", "GB-NIR", "GB-SCT", "GB-WLS", 
+    "UM", "US", "UY", "UZ", "VU", "VE", "VN", "VG", "VI", "WF", "EH", "YE", "ZM", "ZW"
   ];
   
   const visCountries = [
-  "US", "IN", "SG", "MY", "TH", "GB", "FR", "IT", "AT", "CH", "VA", "LI"
+  "US", "IN", "SG", "MY", "TH", "GB", "GB-WLS", "FR", "IT", "AT", "CH", "VA", "LI"
   ];
   
   const addInfo = {"US": "24 states visited", "IN": "8 states visited"}
