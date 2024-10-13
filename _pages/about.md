@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ------
-I am currently an Academic Visitor at [Aalto University](https://www.aalto.fi/en){:target="_blank"}. Previously, I have worked as a Research Specialist at [NU Earth](https://www.earth.northwestern.edu/){:target="_blank"}, as an Applied Scientist at [Alchera Labs](https://www.alchera.ai/){:target="_blank"}, and as a Researcher at [CIERA](https://ciera.northwestern.edu/){:target="_blank"}. 
+<!-- I am currently an Academic Visitor at [Aalto University](https://www.aalto.fi/en){:target="_blank"}.  -->
+I am currently a Machine Learning Engineer at [Machine Medicine](https://machinemedicine.com/){:target="_blank"}. Previously, I have worked as a Research Specialist at [NU Earth](https://www.earth.northwestern.edu/){:target="_blank"}, as an Applied Scientist at [Alchera Labs](https://www.alchera.ai/){:target="_blank"}, and as a Researcher at [CIERA](https://ciera.northwestern.edu/){:target="_blank"}. 
 
 My research interests lie broadly in Machine Learning, Deep Learning, and Reinforcement Learning. More specifically, my primary research interest is in the science of deep learning, i.e., understanding the underlying behavior and function of neural networks through empirical experiments and foundational theory, and using this knowledge to develop more intelligent systems. Additionally, I am also interested in integrating machine learning algorithms into the scientific development process across various disciplines such that it would help expedite the pace of scientific research.
 
@@ -51,6 +52,16 @@ My CV can be found [here.](../files/CV.pdf){:target="_blank"} Please drop me an 
 <strong>Activities: </strong>Computer Society of India  
 
 # Experience
+-----
+<img align="left" height="100" width="100" src="../images/logos/mmt.jpg" style="padding-right:15px">
+
+<span style="font-size: 22px"><strong>Machine Medicine</strong></span><br>
+<span style="font-size: 18px"><strong>Machine Learning Engineer</strong></span><br>
+<span style="font-size: 14px"><strong>Sep 2024 - Present</strong></span>
+
+-----
+Responsible for research, development, and productionization of machine learning algorithms for neurological disorders.
+
 -----
 <img align="left" height="100" width="100" src="../images/logos/aalto.png" style="padding-right:15px">
 
