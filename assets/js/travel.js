@@ -21,7 +21,7 @@ const allCountries = [
   ];
   
   const visCountries = [
-  "US", "IN", "SG", "MY", "TH", "GB", "GB-WLS", "FR", "IT", "AT", "CH", "VA", "LI"
+  "US", "IN", "SG", "MY", "TH", "GB", "GB-WLS", "GB-SCT", "FR", "IT", "AT", "CH", "VA", "LI"
   ];
   
   const addInfo = {"US": "24 states visited", "IN": "8 states visited"}
