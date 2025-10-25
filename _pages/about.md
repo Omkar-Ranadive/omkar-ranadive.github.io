@@ -83,8 +83,11 @@ Investigated the memorization properties of deep neural networks
 
 -----
 * Developed machine learning approaches for detecting small seismic events in noisy urban environments.  
+  * **Git repository:** [Seismic Chicago](https://github.com/Omkar-Ranadive/Seismic-Chicago){:target="_blank"} 
 * Developed an algorithm for the problem of Electrical Impedance Tomography, aimed at optimizing sensitivity volume by efficiently selecting a small subset of rows from a large matrix.
+  * **Git repository:** [Electrical Impedance Tomography](https://github.com/Omkar-Ranadive/Electrical-Impedance-Tomography){:target="_blank"}
 * Developed [Earthtunes](https://sites.northwestern.edu/earthtunes/){:target="_blank"}, a mobile app which allows users to listen to normally inaudible sounds within the Earth.
+  * **App:** [Earthtunes - Android App](https://play.google.com/store/apps/details?id=edu.northwestern.amaral.earthtunes){:target="_blank"} 
 * Developed an analytical framework to analyze seismic events on Mars.
   * **Git repository:** [Marsquakes](https://github.com/Omkar-Ranadive/Marsquakes){:target="_blank"}
 * Developed Pysmo, a modular Python framework for seismology.
@@ -172,5 +175,4 @@ Responsible for developing lane detection, object detection, and depth mapping m
 A travel map showcasing all the countries I have been to!
 
 {%- include travel/visited_places.html -%}
-
 {%- include travel/world_map.html -%}
