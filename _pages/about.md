@@ -61,8 +61,12 @@ My CV can be found [here.](../files/CV.pdf){:target="_blank"} Please drop me an 
 -----
 Responsible for research, development, and productionization of machine learning algorithms for neurological disorders.
 
-* Developed a pipeline for chaining machine learning workflows on GCP using Metaflow, Kubernetes, and Argo Workflows.
-* Developing a Dash-based web app enabling users to upload videos, execute and analyze machine learning workflows on them, leveraging Firestore DB and GCP Buckets for data management.
+* Developed a scalable MLOps infrastructure on GCP using Metaflow, Kubernetes, and Argo Workflows to orchestrate complex ML workflows.
+* Developed a pipeline for chaining ML workflows on GCP using Metaflow, Kubernetes, and Argo Workflows.
+* Built a Dash-based web app enabling users to perform ML analysis on patient data (PHI) securely using GCP Cloud Run, leveraging Firestore DB and Cloud Storage for data management.   
+* Architected a secure FastAPI-based API Gateway on GCP Cloud Run to aggregate and expose backend services via a centralized reverse proxy.
+* Built a remote development workflow to securely authenticate, provision, and manage remote compute sessions directly from local IDEs using a custom VSCode extension and a Go local helper. 
+* Developing a foundational deep learning model for neurological disorders.
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/aalto.png" style="padding-right:15px">
