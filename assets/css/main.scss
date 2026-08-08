@@ -39,3 +39,19 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Quora Embed Wrapper for scrolling */
+.quora-scroll-wrapper {
+  max-height: 70vh;
+  min-height: 400px;
+  overflow-y: auto;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  background-color: #fff;
+}
+
+.quora-scroll-wrapper iframe {
+  width: 100% !important;
+}
