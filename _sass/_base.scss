@@ -42,7 +42,7 @@ h3 {
 }
 
 h4 {
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
 
 h5 {
@@ -105,6 +105,42 @@ blockquote {
     &:before {
       content: "\2014";
       padding-right: 5px;
+    }
+  }
+}
+
+/* aside / callout blocks */
+
+aside {
+  display: block;
+  margin: 1.5em 0;
+  padding: 1em 1.25em;
+  background-color: mix(#fff, $info-color, 92%);
+  border: 1px solid mix(#fff, $info-color, 75%);
+  border-left: 4px solid $info-color;
+  border-radius: $border-radius;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  font-size: 0.95em;
+  line-height: 1.6;
+  color: $text-color;
+
+  p {
+    margin: 0 0 0.5em;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  code {
+    background-color: mix(#fff, $info-color, 96%);
+  }
+
+  ul, ol {
+    margin-bottom: 0.5em;
+
+    &:last-child {
+      margin-bottom: 0;
     }
   }
 }

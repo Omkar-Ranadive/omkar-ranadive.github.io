@@ -85,6 +85,27 @@ a .ca:hover {
 {% endfor %}
 </ul>
 
+<!--Large Language Models Section-->
+<hr> 
+<h2>Large Language Models</h2> 
+<hr> 
+<ul>
+{% for post in site.categories.llm %}
+  <!--Assign the appropriate symbols-->
+  {% assign symbol = '' %} <!-- Start with an empty string-->
+  {% if post.quora %}
+  {% assign symbol =  '[<i class="fab fa-fw fa-quora" aria-hidden="true" style="color:red"></i>]' %}
+  {% endif %}
+  {% if post.code %}
+  {% assign symbol = symbol | append: '[<i class="fa fa-code" aria-hidden="true" style="color:black"></i>]' %}
+  {% endif %}
+  {% if post.study %}
+  {% assign symbol = symbol | append: '[<i class="fa fa-book" aria-hidden="true" style="color:chocolate"></i>]' %}
+  {% endif %}
+  <li><b><a href="{{ post.permalink }}" style="text-decoration:none"><span class="ca">{{ post.title }}</span> {{ symbol }}</a></b></li> 
+{% endfor %}
+</ul>
+
 <!--Reinforcement Learning Section-->
 <hr>
 <h2>Reinforcement Learning</h2> 
