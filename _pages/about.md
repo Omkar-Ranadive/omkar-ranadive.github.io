@@ -70,6 +70,7 @@ Responsible for research, development, and productionization of machine learning
 * Structured a modular Terraform setup to manage and deploy cloud infrastructure from a central repo, decoupling service-level configs into version-tagged modules inside their own repos.
 * Built an event-driven hooks system that lets users set custom rules to automatically trigger multi-stage ML pipelines whenever clinical study data is uploaded.
 * Implemented a dedicated database service using FastAPI and SQLAlchemy to query CloudSQL Postgres, providing a secure, read-only data access layer for backend services. 
+* Engineered a HIPAA-compliant audit logging pipeline with FastAPI middleware, GCP Pub/Sub, and BigQuery, reducing logging costs by 10x.
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/aalto.png" style="padding-right:15px">
